@@ -1,0 +1,19 @@
+body {
+  background-color: cornsilk;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#topo {
+  color: chocolate;
+  border: 1px solid gray;
+  background-color: bisque;
+  text-align: center;
+  padding: 10px;
+}
+
+#conteudo {
+  border: 1px solid gray;
+  background-color: bisque; 
+  min-height: 100px;
+  padding: 20px; 
+}
